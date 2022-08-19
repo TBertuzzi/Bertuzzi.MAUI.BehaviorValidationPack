@@ -10,7 +10,7 @@
 
 |Name|Info|
 | ------------------- | :------------------: |
-|Xamarin.Forms.BehaviorValidationPack|[![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue.svg)](https://www.nuget.org/packages/Bertuzzi.MAUI.BehaviorValidationPack/)|
+|Bertuzzi.MAUI.BehaviorValidationPack|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Bertuzzi.MAUI.BehaviorValidationPack/)|
 
 
 **Platform Support**
