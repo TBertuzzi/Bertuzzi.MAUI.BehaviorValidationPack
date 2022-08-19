@@ -83,3 +83,5 @@ Masks
     
 
 The complete example can be downloaded here: <https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack/tree/master/MAUIBehaviorValidationPackSample>
+
+based on my package : https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack
