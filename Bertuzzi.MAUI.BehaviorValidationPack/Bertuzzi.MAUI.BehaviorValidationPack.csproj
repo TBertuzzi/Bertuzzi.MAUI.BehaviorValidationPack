@@ -31,7 +31,15 @@
 		<PackageId>Bertuzzi.MAUI.BehaviorValidationPack</PackageId>
 		<Product>Bertuzzi.MAUI.BehaviorValidationPack</Product>
 		<PackageReleaseNotes>Maui Version Released</PackageReleaseNotes>
+		<PackageIcon>behaviorIcon.png</PackageIcon>
 		
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Include="..\Resources\behaviorIcon.png">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
 
 </Project>
